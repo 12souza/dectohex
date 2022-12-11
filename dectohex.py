@@ -1,4 +1,4 @@
-sx = 81858116406
+sx = int(input("Put in a numerical value to get its hexadecimal value... "))
 
 remainders = []
 hexCodes = {0:"0",
